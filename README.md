@@ -9,7 +9,8 @@ I use Tinkercad to simulate and visualize my IoT projects. Here are the Tinkerca
 2. [Multi Color with RGB](https://www.tinkercad.com/things/aK4Zv5SNQMM-multi-color-with-rgb?sharecode=oMqMgNexvaHuEEXwAzLRSC9_7vHRJ0u_TWONQQOixi4)
 3. [Multi Color LED](https://www.tinkercad.com/things/ju0kVfXq3Jd-multi-color-led?sharecode=JFfRjcRRjGLWTuceTO1Vr_MUm_e2qg9nxGCZjynb7js)
 4. [IR Sensor](https://www.tinkercad.com/things/3FrGXe51j3Q-ir-sensor?sharecode=cyi5NvzP64PijFlHc2Ng_hVIJ_xnJyCiFRBKDffcYtg)
-5. [Potentiometer - Serial Monitor Output](https://www.tinkercad.com/things/cIu2zpyGZh6-potentiometerserialmonitor?sharecode=Rrr7ZRLkxJiWdj7dJR3c3Xb2ogzyPTqeeh3zhlQz72E)
-6. [Potentiometer - LED Brightness Control](https://www.tinkercad.com/things/cpxTc0eF2AN-potentiometer-led-brightness-control?sharecode=nYicE_2unDqYpCZVR_LETJSzTMdiePOqwFTfuEx6r2Y)
+5. [Slot Sensor](#)
+6. [Potentiometer - Serial Monitor Output](https://www.tinkercad.com/things/cIu2zpyGZh6-potentiometerserialmonitor?sharecode=Rrr7ZRLkxJiWdj7dJR3c3Xb2ogzyPTqeeh3zhlQz72E)
+7. [Potentiometer - LED Brightness Control](https://www.tinkercad.com/things/cpxTc0eF2AN-potentiometer-led-brightness-control?sharecode=nYicE_2unDqYpCZVR_LETJSzTMdiePOqwFTfuEx6r2Y)
 
 Feel free to explore the Tinkercad simulations to better understand the projects before implementing them.
