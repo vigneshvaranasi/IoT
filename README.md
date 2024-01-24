@@ -12,6 +12,6 @@ I use Tinkercad to simulate and visualize my IoT projects. Here are the Tinkerca
 5. [Slot Sensor](#)
 6. [Potentiometer - Serial Monitor Output](https://www.tinkercad.com/things/cIu2zpyGZh6-potentiometerserialmonitor?sharecode=Rrr7ZRLkxJiWdj7dJR3c3Xb2ogzyPTqeeh3zhlQz72E)
 7. [Potentiometer - LED Brightness Control](https://www.tinkercad.com/things/cpxTc0eF2AN-potentiometer-led-brightness-control?sharecode=nYicE_2unDqYpCZVR_LETJSzTMdiePOqwFTfuEx6r2Y)
-8. [Serial Communication - Device Control]([https://www.tinkercad.com/things/cpxTc0eF2AN-potentiometer-led-brightness-control?sharecode=nYicE_2unDqYpCZVR_LETJSzTMdiePOqwFTfuEx6r2Y](https://www.tinkercad.com/things/32dOGDqQRRe-serial-communication?sharecode=F2kSRkY4ToY7kAknQ2wPOqRI2PDhB6rOp9VVkZVV2P0)
+8. [Serial Communication - Device Control](https://www.tinkercad.com/things/32dOGDqQRRe-serial-communication?sharecode=F2kSRkY4ToY7kAknQ2wPOqRI2PDhB6rOp9VVkZVV2P0)
 
 Feel free to explore the Tinkercad simulations to better understand the projects before implementing them.
