@@ -1,0 +1,14 @@
+{
+  "name": "iotdata",
+  "version": "1.0.0",
+  "description": "internet of things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iotdata": "^1.0.0"
+  }
+}
