@@ -2,10 +2,8 @@
 #include <ESP8266WiFi.h>
 
 WiFiClient client;
-unsigned long counterChannelNumber = 2487036;         // Channel ID
-const char *myCounterReadAPIKey = "UEW8WV4NCGK3XIBK"; // Read API Key
-const int FieldNumber1 = 1;                           // The field you wish to read
-const int FieldNumber2 = 2;                           // The field you wish to read
+unsigned long ChannelNumber = 2487036; // Channel ID
+const char *API = "UEW8WV4NCGK3XIBK"; // Read API Key
 
 void setup()
 {
@@ -17,12 +15,12 @@ void setup()
     delay(500);
     Serial.print(".");
   }
-  Serial.print("\nWIFI Connected");
+  Serial.print("WIFI Connected");
   ThingSpeak.begin(client);
 }
 
 void loop()
 {
-  int A = ThingSpeak.readLongField(counterChannelNumber, FieldNumber1, myCounterReadAPIKey);
+  int A = ThingSpeak.readLongField(ChannelNumber, 1, API);
   digitalWrite(13, A);
 }
