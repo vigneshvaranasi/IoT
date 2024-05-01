@@ -1,6 +1,6 @@
 {
   "name": "iotdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "internet of things",
   "main": "index.js",
   "scripts": {
