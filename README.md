@@ -14,3 +14,9 @@ I use Tinkercad to simulate and visualize my IoT projects. Here are the Tinkerca
 7. [Serial Communication - Device Control](https://www.tinkercad.com/things/32dOGDqQRRe-serial-communication?sharecode=F2kSRkY4ToY7kAknQ2wPOqRI2PDhB6rOp9VVkZVV2P0)
 
 Feel free to explore the Tinkercad simulations to better understand the projects before implementing them.
+
+
+https://vvsvignesh.notion.site/MIT-Calculator-1f24bbe5347444f9be031f6075c3d5c0
+
+
+https://vvsvignesh.notion.site/MIT-Home-Automation-bd105d804d9343a5bbb9d59d5077d248
